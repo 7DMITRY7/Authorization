@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "RESTAURANT"; ObjectID = "0nM-th-AVE"; */
+"0nM-th-AVE.text" = "RESTAURANT";
+
+/* Class = "UILabel"; text = "________________________________"; ObjectID = "6pb-IX-Odc"; */
+"6pb-IX-Odc.text" = "________________________________";
+
+/* Class = "UIButton"; configuration.title = "Войти"; ObjectID = "7U7-2d-Ica"; */
+"7U7-2d-Ica.configuration.title" = "Войти";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7U7-2d-Ica"; */
+"7U7-2d-Ica.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "________________________________"; ObjectID = "ASy-Er-fJV"; */
+"ASy-Er-fJV.text" = "________________________________";
+
+/* Class = "UILabel"; text = "Авторизация:"; ObjectID = "G45-bj-tmQ"; */
+"G45-bj-tmQ.text" = "Авторизация:";
+
+/* Class = "UILabel"; text = "Пароль:"; ObjectID = "JAM-Ky-1sw"; */
+"JAM-Ky-1sw.text" = "Пароль:";
+
+/* Class = "UILabel"; text = "_______________________________"; ObjectID = "XBl-1P-rVp"; */
+"XBl-1P-rVp.text" = "_______________________________";
+
+/* Class = "UILabel"; text = "Введите пароль"; ObjectID = "blj-V8-t7C"; */
+"blj-V8-t7C.text" = "Введите пароль";
+
+/* Class = "UILabel"; text = "E-mail:"; ObjectID = "fiH-lT-sWi"; */
+"fiH-lT-sWi.text" = "E-mail:";
+
+/* Class = "UILabel"; text = "MILITANA"; ObjectID = "hY0-hI-dAC"; */
+"hY0-hI-dAC.text" = "MILITANA";
+
+/* Class = "UILabel"; text = "Введите e-mail"; ObjectID = "ptG-UK-OVP"; */
+"ptG-UK-OVP.text" = "Введите e-mail";
